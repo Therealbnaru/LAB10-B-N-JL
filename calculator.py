@@ -1,3 +1,6 @@
+#https://github.com/Therealbnaru/LAB10-B-N-JL.git
+#Partner 1: Bhuvan Naru
+#Partner 2: John Le
 """
 calculator.py
 - Defines functions used to create a simple calculator
